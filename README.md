@@ -1,6 +1,6 @@
-# Regularization Path Explorer — Version 2
+# Regularization Path Explorer
 
-Interactive Week 6 teaching tool for ANLY 530.
+Interactive teaching tool for ANLY 530.
 
 ## Version 2
 - Fixes the JavaScript initialization error.
